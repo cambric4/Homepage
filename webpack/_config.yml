@@ -2,5 +2,6 @@ exclude:
   - node_modules
   - webpack
   - package.json
-  - yarn.lock
   - package-lock.json
+  - yarn.lock
+  - README.md
